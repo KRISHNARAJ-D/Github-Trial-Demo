@@ -1,0 +1,2 @@
+This module is to add Products into the Cart
+It is developed by Krishnaraj D
